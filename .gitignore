@@ -1,0 +1,5 @@
+astro-app/node_modules/*
+next-app/node_modules/*
+remix-app/node_modules/*
+svelte-app/node_modules/*
+t3-app/node_modules/*
